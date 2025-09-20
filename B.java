@@ -29,4 +29,9 @@ public class B {
     public void MB2() {
         System.out.println("Executando MB2");
     }
+    
+    // Novo método
+    public void MB3() { 
+    	System.out.println("Executando MB3");
+    }
 }
