@@ -13,5 +13,8 @@ public class C {
     // Métodos
     public void MC1() { System.out.println("Executando MC1"); }
     public void MC2() { System.out.println("Executando MC2"); }
+    
+    // Novo método
+    public void MC3() { System.out.println("Executando MC3"); }
 }
 
