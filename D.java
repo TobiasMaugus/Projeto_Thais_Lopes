@@ -13,5 +13,9 @@ public class D {
     // Métodos
     public void MD1() { System.out.println("Executando MD1"); }
     public void MD2() { System.out.println("Executando MD2"); }
+<<<<<<< HEAD
     public void MD3() { System.out.println("Executando MD3"); }
+=======
+    public void MD4() { System.out.println("Executando MD4"); }
+>>>>>>> origin/develop
 }
